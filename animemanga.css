@@ -1,0 +1,52 @@
+/*Fiona Tong's Anime page*/
+body{
+     background:#ffebef;
+     color:brown;
+}
+
+h1{
+   font-size:70px;
+   text-align:center;
+}
+
+ul {
+	width: 570px;
+	padding: 15px;
+	margin: -50px auto 10px auto;
+	border-top: 2px solid #000;
+	border-bottom: 1px solid #000;
+	text-align: center;
+}
+			
+li {
+	display: inline;
+	font-size:23px;
+	margin: 0px 5px;
+	text-decoration:none;
+}
+
+a{
+  color:#cc0000;
+  text-decoration:none; 
+}
+
+h2{
+   color: #cf41b6;
+   font-size:67px;
+   margin:25px auto 0px auto;
+   text-align:center;
+}
+
+p{
+  color:black;
+  font-family:"Times New Roman";
+  font-size:30px;
+  margin:-5px auto 0px auto;
+  text-align:center;
+}
+
+h3{
+	font-size:34px;
+	margin:40px auto 0px auto;
+	text-align:center;
+}
